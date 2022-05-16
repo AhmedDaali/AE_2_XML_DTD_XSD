@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="biblioteca.xsd">
+    <libros>
+        <libro id="L0001" paginas="323" tipo_clase="novela">
+            
+            <titulo>El hobbit</titulo>
+            <indice>
+                 1. Una tertulia inesperada ........ 9 
+                 2. Carnero asado ........ 29 
+                 3. Un breve descanso ........ 41 
+                 4. Sobre la colina y bajo la colina ........ 48 
+                 5. Acertijos en las tinieblas ........ 58 
+                 6. De la sartén al fuego ........ 75 
+                 7. Extraños aposentos ........ 90 
+                 8. Moscas y arañas ........ 110 
+                 9. Barriles de contrabando ........ 131 
+                10. Una cálida bienvenida ........ 144 
+                11. En el umbral ........ 153 
+                12. Información secreta ........ 160 
+                13. Nadie en casa ........ 176 
+                14. Fuego y agua ........ 185 
+                15. El encuentro de las nubes ........ 193 
+                16. Un ladrón en la noche ........ 201 
+                17. Las nubes estallan ........ 206 
+                18. El viaje de vuelta ........ 215 
+                19. La última jornada ........ 222 
+            </indice>
+            
+            <capitulos>
+                <capitulo paginas="20">
+                    <titulo>Una tertulia inesperada</titulo>
+                    <contenido enlace="https://elhobbit.com/estoEsUnEnlaceInventado/unaTertuliaInesperada"/>
+                </capitulo>
+                
+                <capitulo paginas="21">
+                    <titulo>Carnero asado</titulo>
+                    <contenido enlace="https://elhobbit.com/estoEsUnEnlaceInventado/carneroAsado"/>
+                </capitulo>
+                
+                <capitulo paginas="7">
+                    <titulo>Un breve descanso</titulo>
+                    <contenido enlace="https://elhobbit.com/estoEsUnEnlaceInventado/unBreveDescanso"/>
+                </capitulo>
+
+                <capitulo paginas="10">
+                    <titulo>Sobre la colina y bajo la colina</titulo>
+                    <contenido enlace="https://elhobbit.com/estoEsUnEnlaceInventado/sobreLaColinaYBajoLaColina"/>
+                </capitulo>
+
+                <capitulo paginas="30">
+                    <titulo>Acertijos en las tinieblas</titulo>
+                    <contenido enlace="https://elhobbit.com/estoEsUnEnlaceInventado/acertijosEnLasTinieblas"/>
+                </capitulo>
+
+                <capitulo paginas="20">
+                    <titulo>De la sartén al fuego</titulo>
+                    <contenido enlace="https://elhobbit.com/estoEsUnEnlaceInventado/deLaSartenAlFuego"/>
+                </capitulo>
+
+                <capitulo paginas="20">
+                    <titulo>Extraños aposentos</titulo>
+                    <contenido enlace="https://elhobbit.com/estoEsUnEnlaceInventado/extranosAposentos"/>
+                </capitulo>
+
+                <capitulo paginas="32">
+                    <titulo>Moscas y arañas</titulo>
+                    <contenido enlace="https://elhobbit.com/estoEsUnEnlaceInventado/moscasYAranas"/>
+                </capitulo>
+
+                <capitulo paginas="30">
+                    <titulo>Barriles de contrabando</titulo>
+                    <contenido enlace="https://elhobbit.com/estoEsUnEnlaceInventado/barrilesDeContrabando"/>
+                </capitulo>
+
+                <capitulo paginas="28">
+                    <titulo>Una cálida bienvenida</titulo>
+                    <contenido enlace="https://elhobbit.com/estoEsUnEnlaceInventado/unaCalidaBienvenida"/>
+                </capitulo>
+
+                <capitulo paginas="12">
+                    <titulo>En el umbral</titulo>
+                    <contenido enlace="https://elhobbit.com/estoEsUnEnlaceInventado/enElUmbral"/>
+                </capitulo>
+
+                <capitulo paginas="24">
+                    <titulo>Información secreta</titulo>
+                    <contenido enlace="https://elhobbit.com/estoEsUnEnlaceInventado/informacionSecreta"/>
+                </capitulo>
+
+                <capitulo paginas="40">
+                    <titulo>Nadie en casa</titulo>
+                    <contenido enlace="https://elhobbit.com/estoEsUnEnlaceInventado/nadieEnCasa"/>
+                </capitulo>
+
+                <capitulo paginas="11">
+                    <titulo>Fuego y agua</titulo>
+                    <contenido enlace="https://elhobbit.com/estoEsUnEnlaceInventado/fuegoYAgua"/>
+                </capitulo>
+
+                <capitulo paginas="8">
+                    <titulo>El encuentro de las nubes</titulo>
+                    <contenido enlace="https://elhobbit.com/estoEsUnEnlaceInventado/elEncuentroDeLasNubes"/>
+                </capitulo>
+
+                <capitulo paginas="22">
+                    <titulo>Las nubes estallan</titulo>
+                    <contenido enlace="https://elhobbit.com/estoEsUnEnlaceInventado/lasNubesEstallan"/>
+                </capitulo>
+
+                <capitulo paginas="21">
+                    <titulo>El viaje de vuelta</titulo>
+                    <contenido enlace="https://elhobbit.com/estoEsUnEnlaceInventado/elViajeDeVuelta"/>
+                </capitulo>
+
+                <capitulo paginas="14">
+                    <titulo>La última jornada</titulo>
+                    <contenido enlace="https://elhobbit.com/estoEsUnEnlaceInventado/laUltimaJornada"/>
+                </capitulo>
+
+            </capitulos>
+            
+            <sinopsis>
+                La historia narra el viaje de un hobbit llamado Bilbo Bolsón, al que no le gustan las aventuras, a la Montaña Solitaria en busca del tesoro robado por el dragón Smaug años atrás. 
+                
+                Todo empieza un inesperado día en el que Bilbo recibe la visita de Gandalf el Gris junto con 13 enanos, entre los que se cuenta a Thorin, Escudo-de-Roble, a cuya familia le fue robado el tesoro. 
+                
+                Algunos de los hechos narrados en El Hobbit influirán en los acontecimientos posteriores de El Señor de los Anillos. 
+            </sinopsis>
+        </libro>
+    
+
+        <libro id="L0002" paginas="521" tipo_clase="didáctico">
+            <titulo>Curso de programacion Java</titulo>
+            <indice>
+                
+                     1. CUESTIONES BÁSICAS SOBRE JAVA
+                     2. INSTALAR JAVA EN NUESTRO ORDENADOR Y DAR LOS PRIMEROS PASOS
+                     3. CONCEPTOS BÁSICOS DE PROGRAMACIÓN ORIENTADA A OBJETOS. CLASES Y OBJETOS.
+                     4. ESCRITURA BÁSICA DE CÓDIGO Y ESTRUCTURAS DE DECISIÓN
+                     5. ESTRUCTURAR EL CÓDIGO EN JAVA      
+                     6. LIBRERÍAS DEL API DE JAVA. BIBLIOTECAS DE CLASES. 
+                     7. CONSTRUIR UN PROGRAMA CON JAVA
+                     8. BUCLES, COLECCIONES DE OBJETOS Y RECORRIDOS DE COLECCIONES  
+                     9. MÁS CONCEPTOS Y CUESTIONES BÁSICAS DE JAVA
+                    10. HERENCIA EN JAVA. ¿QUÉ ES? ¿PARA QUÉ SIRVE?
+                    11. IR MÁS ALLÁ EN JAVA: SWING, GESTIÓN DE ERRORES Y MÁS.
+                </indice>
+            <capitulos>
+                <capitulo paginas="12">
+                    <titulo>CUESTIONES BÁSICAS SOBRE JAVA</titulo>
+                    <contenido enlace="https://www.aprenderaprogramar.com/"/>
+                </capitulo>
+                
+                <capitulo paginas="16">
+                    <titulo>INSTALAR JAVA EN NUESTRO ORDENADOR Y DAR LOS PRIMEROS PASOS</titulo>
+                    <contenido enlace="https://www.aprenderaprogramar.com/"/>
+                </capitulo>
+                
+                <capitulo paginas="22">
+                    <titulo>CONCEPTOS BÁSICOS DE PROGRAMACIÓN ORIENTADA A OBJETOS. CLASES Y OBJETOS.</titulo>
+                    <contenido enlace="https://www.aprenderaprogramar.com/"/>
+                </capitulo>
+                
+                <capitulo paginas="12">
+                    <titulo>ESCRITURA BÁSICA DE CÓDIGO Y ESTRUCTURAS DE DECISIÓN</titulo>
+                    <contenido enlace="https://www.aprenderaprogramar.com/"/>
+                </capitulo>
+                
+                <capitulo paginas="16">
+                    <titulo>LIBRERÍAS DEL API DE JAVA. BIBLIOTECAS DE CLASES.</titulo>
+                    <contenido enlace="https://www.aprenderaprogramar.com/"/>
+                </capitulo>
+                
+                <capitulo paginas="22">
+                    <titulo>CONSTRUIR UN PROGRAMA CON JAVA</titulo>
+                    <contenido enlace="https://www.aprenderaprogramar.com/"/>
+                </capitulo>
+
+                <capitulo paginas="22">
+                    <titulo>BUCLES, COLECCIONES DE OBJETOS Y RECORRIDOS DE COLECCIONES </titulo>
+                    <contenido enlace="https://www.aprenderaprogramar.com/"/>
+                </capitulo>
+
+                <capitulo paginas="22">
+                    <titulo>BUCLES, COLECCIONES DE OBJETOS Y RECORRIDOS DE COLECCIONES</titulo>
+                    <contenido enlace="https://www.aprenderaprogramar.com/"/>
+                </capitulo>
+
+                <capitulo paginas="22">
+                    <titulo>MÁS CONCEPTOS Y CUESTIONES BÁSICAS DE JAVA</titulo>
+                    <contenido enlace="https://www.aprenderaprogramar.com/"/>
+                </capitulo>
+
+                <capitulo paginas="22">
+                    <titulo>HERENCIA EN JAVA. ¿QUÉ ES? ¿PARA QUÉ SIRVE?</titulo>
+                    <contenido enlace="https://www.aprenderaprogramar.com/"/>
+                </capitulo>
+
+                <capitulo paginas="22">
+                    <titulo>IR MÁS ALLÁ EN JAVA: SWING, GESTIÓN DE ERRORES Y MÁS.</titulo>
+                    <contenido enlace="https://www.aprenderaprogramar.com/"/>
+                </capitulo>
+                
+            </capitulos>
+            <sinopsis>
+                Java es un lenguaje de programación orientado a objetos, portable y con un alto nivel de implantación en aplicaciones empresariales. Se mantiene año tras año en los puestos más altos del ranking de lenguajes más utilizados. Este Manual Imprescindible te acompañará desde los primeros pasos en la programación hasta la comprensión de conceptos más avanzados. Aquí se ofrecen los conocimientos que cualquier programador novel debería tener antes de incorporarse a un equipo de desarrollo profesional.
+
+                En estas páginas se abordan las estructuras básicas, comunes a casi todos los lenguajes, y los fundamentos de orientación a objetos, imprescindibles para un desarrollo mantenible en Java. Asimismo, se tratan la gestión de datos, las librerías más usadas, el acceso a bases de datos, entre otros. Y, por supuesto, se explican buenas prácticas: manejo correcto de las excepciones, depuración del código, test unitarios y sistemas de trazas, para asegurar su calidad hoy y en el futuro. Todo ello se ilustra con gran cantidad de ejemplos, ejercicios resueltos y proyectos prácticos, cuyo código estará accesible para el lector.
+                
+                Quizá Java no sea el lenguaje aparentemente más sencillo para empezar, porque es estricto y fuerza a hacer las cosas bien. Aprender a programar en Java permite hacerlo con solidez y enfrentarse a otros lenguajes.
+                
+                
+                Java es un lenguaje de programación orientado a objetos, portable y con un alto nivel de implantación en aplicaciones empresariales. Se mantiene año tras año en los puestos más altos del ranking de lenguajes más utilizados. Este Manual Imprescindible te acompañará desde los primeros pasos en la programación hasta la comprensión de conceptos más avanzados. Aquí se ofrecen los conocimientos que cualquier programador novel debería tener antes de incorporarse a un equipo de desarrollo profesional.
+                
+                En estas páginas se abordan las estructuras básicas, comunes a casi todos los lenguajes, y los fundamentos de orientación a objetos, imprescindibles para un desarrollo mantenible en Java. Asimismo, se tratan la gestión de datos, las librerías más usadas, el acceso a bases de datos, entre otros. Y, por supuesto, se explican buenas prácticas: manejo correcto de las excepciones, depuración del código, test unitarios y sistemas de trazas, para asegurar su calidad hoy y en el futuro. Todo ello se ilustra con gran cantidad de ejemplos, ejercicios resueltos y proyectos prácticos, cuyo código estará accesible para el lector.
+                
+                Quizá Java no sea el lenguaje aparentemente más sencillo para empezar, porque es estricto y fuerza a hacer las cosas bien. Aprender a programar en Java permite hacerlo con solidez y enfrentarse a otros lenguajes.
+            </sinopsis>
+        </libro>   
+
+        <libro id="L0003" paginas="521" tipo_clase="infantil">
+            <titulo>Caperucita roja</titulo>
+            <indice>Carece de índice</indice>
+            <capitulos>
+                <capitulo paginas="20">
+                    <titulo>Caperucita Roja</titulo>
+                    <contenido enlace="https://cuentosinfantiles.es/estoEsUnEnlaceInventado/caperucitaroja"/>
+                </capitulo>
+                
+            </capitulos>
+            <sinopsis>
+                Caperucita Roja es una niña que quería mucho a su abuelita; un día su madre le da una cesta con comida para que se la lleve a la abuelita, que está enferma y vive en una casa algo lejos de ellas. En el camino se encuentra con el Lobo Feroz que la reta a una carrera hasta la casa de la abuelita.
+            </sinopsis>
+        </libro>   
+
+        <!-- ... -->
+        
+        <!--Se pueden añadir tantos libros como se deseen siguiendo el formato establecido -->
+
+    </libros>
+
+    
+    
+    <revistas>
+        
+        <revista id="R0001" tipo_clase="corazón" paginas="33">
+            <titulo>Pronto</titulo>
+            <numero>25</numero>
+            <indice>Aqui va el indice</indice>
+            <secciones_revista>
+                <seccion_revista paginas="3">
+                    <contenido enlace="https://www.pronto.es/noticias-del-corazon"/>
+                </seccion_revista>
+
+                <seccion_revista paginas="1">
+                    <contenido enlace="https://www.pronto.es/pronto-cocina"/>
+                </seccion_revista>
+
+                <seccion_revista paginas="3">
+                    <contenido enlace="https://www.pronto.es/belleza"/>
+                </seccion_revista>
+
+                <seccion_revista paginas="2">
+                    <contenido enlace="https://www.pronto.es/vida-sana"/>
+                </seccion_revista>
+
+                <seccion_revista paginas="1">
+                    <contenido enlace="https://www.pronto.es/pronto-tv"/>
+                </seccion_revista>
+
+                <seccion_revista paginas="1">
+                    <contenido enlace="https://www.pronto.es/horoscopo"/>
+                </seccion_revista>
+                
+            </secciones_revista>
+
+        </revista>
+
+        <revista id="R0002" tipo_clase="investigación" paginas="33">
+            <titulo>Muy Interesante</titulo>
+            <numero>121</numero>
+            <indice>Aqui va el indice</indice>
+            <secciones_revista>
+
+                <seccion_revista paginas="6">
+                    <contenido enlace="https://www.muyinteresante.es/ciencia"/>
+                </seccion_revista>
+
+                <seccion_revista paginas="2">
+                    <contenido enlace="https://www.muyinteresante.es/salud"/>
+                </seccion_revista>
+
+                <seccion_revista paginas="5">
+                    <contenido enlace="https://www.muyinteresante.es/tecnologia"/>
+                </seccion_revista>
+
+                <seccion_revista paginas="1">
+                    <contenido enlace="https://www.muyinteresante.es/curiosidades"/>
+                </seccion_revista>
+
+                <seccion_revista paginas="7">
+                    <contenido enlace="https://www.muyinteresante.es/naturaleza"/>
+                </seccion_revista>
+
+                <seccion_revista paginas="9">
+                    <contenido enlace="https://www.muyinteresante.es/mascotas"/>
+                </seccion_revista>
+
+            </secciones_revista>
+
+        </revista>
+
+        <revista id="R0001" tipo_clase="informática" paginas="33">
+            <titulo>Computer Hoy</titulo>
+            <numero>25</numero>
+            <indice>Aqui va el indice</indice>
+            <secciones_revista>
+
+                <seccion_revista paginas="6">
+                    <contenido enlace="https://computerhoy.com/tecnologia"/>
+                </seccion_revista>
+
+                <seccion_revista paginas="2">
+                    <contenido enlace="https://computerhoy.com/entretenimiento"/>
+                </seccion_revista>
+
+                <seccion_revista paginas="4">
+                    <contenido enlace="https://computerhoy.com/gaming"/>
+                </seccion_revista>
+
+                <seccion_revista paginas="1">
+                    <contenido enlace="https://computerhoy.com/life"/>
+                </seccion_revista>
+
+                <seccion_revista paginas="3">
+                    <contenido enlace="https://computerhoy.com/motor"/>
+                </seccion_revista>
+
+                <seccion_revista paginas="1">
+                    <contenido enlace="https://computerhoy.com/fichas"/>
+                </seccion_revista>
+
+                <seccion_revista paginas="2">
+                    <contenido enlace="https://computerhoy.com/newsletter"/>
+                </seccion_revista>
+
+            </secciones_revista>
+
+        </revista>
+
+    </revistas>
+
+    
+    <periodicos>  
+        
+        <periodico id="P0001" tipo_clase="nacionales" fecha_publicacion="1990-09-29">
+            <indice>Aquí iría el índice</indice>
+            <secciones_periodico>
+                
+                <seccion_periodico tipo_seccion="económica">
+                    <articulo autor="Johnny Me Lavo">
+                        <contenido enlace="aqui va el enlace"/>
+                    </articulo>
+                </seccion_periodico>
+
+                <seccion_periodico tipo_seccion="internacional">
+                    <articulo autor="Elena Nito Del Bosque">
+                        <contenido enlace="aqui va el enlace"/>
+                    </articulo>
+                </seccion_periodico>
+            
+                <seccion_periodico tipo_seccion="opinión">
+                    <articulo autor="Aitor Tilla">
+                        <contenido enlace="aqui va el enlace"/>
+                    </articulo>
+                </seccion_periodico>
+            
+            </secciones_periodico>
+
+        </periodico>
+
+        <periodico id="P0002" tipo_clase="internacionales" fecha_publicacion="2010-12-22">
+            <indice>Aquí iría el índice</indice>
+            <secciones_periodico>
+                
+                <seccion_periodico tipo_seccion="nacional">
+                    <articulo autor="Felipe Lotas">
+                        <contenido enlace="aqui va el enlace"/>
+                    </articulo>
+                </seccion_periodico>
+
+                <seccion_periodico tipo_seccion="deportes">
+                    <articulo autor="Elba Gina">
+                        <contenido enlace="aqui va el enlace"/>
+                    </articulo>
+                </seccion_periodico> 
+
+            </secciones_periodico>
+        </periodico>
+    </periodicos>
+</biblioteca>
