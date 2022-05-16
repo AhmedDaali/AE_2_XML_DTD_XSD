@@ -58,7 +58,7 @@
                                             <xs:restriction base="xs:string">   <!-- Con esto restringimos los valores de el campo "tipo_clase" a los que indica el ejercicio"-->
                                                 <xs:enumeration value="novela"/>
                                                 <xs:enumeration value="infantil"/>
-                                                <xs:enumeration value="didáctico"/>
+                                                <xs:enumeration value="didactico"/>
                                             </xs:restriction>
                                         </xs:simpleType>
                                     </xs:attribute>
@@ -109,9 +109,9 @@
                                     <xs:attribute name="tipo_clase" use="required"> <!-- Con esto restringimos los valores de el campo "tipo_clase" a los que indica el ejercicio"-->
                                         <xs:simpleType>                             
                                             <xs:restriction base="xs:string">
-                                                <xs:enumeration value="corazón"/>
-                                                <xs:enumeration value="investigación"/>
-                                                <xs:enumeration value="informática"/>
+                                                <xs:enumeration value="corazon"/>
+                                                <xs:enumeration value="investigacion"/>
+                                                <xs:enumeration value="informatica"/>
                                                 <xs:enumeration value="coches"/>
                                                 <xs:enumeration value="otras"/>
                                             </xs:restriction>
@@ -155,8 +155,8 @@
                                                             <xs:attribute name="tipo_seccion" use="required"> <!-- Con esto restringimos los valores de el campo "tipo_clase" a los que indica el ejercicio"-->
                                                                 <xs:simpleType>                             
                                                                     <xs:restriction base="xs:string">
-                                                                        <xs:enumeration value="económica"/>
-                                                                        <xs:enumeration value="opinión"/>
+                                                                        <xs:enumeration value="economica"/>
+                                                                        <xs:enumeration value="opinion"/>
                                                                         <xs:enumeration value="deportes"/>
                                                                         <xs:enumeration value="nacional"/>
                                                                         <xs:enumeration value="internacional"/>

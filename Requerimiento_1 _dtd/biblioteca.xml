@@ -130,7 +130,7 @@
         </libro>
     
 
-        <libro id="L0002" paginas="521" tipo_clase="didáctico">
+        <libro id="L0002" paginas="521" tipo_clase="didactico">
             <titulo>Curso de programacion Java</titulo>
             <indice>
                 
@@ -277,7 +277,7 @@
 
         </revista>
 
-        <revista id="R0002" tipo_clase="investigación" paginas="33">
+        <revista id="R0002" tipo_clase="investigacion" paginas="33">
             <titulo>Muy Interesante</titulo>
             <numero>121</numero>
             <indice>Aqui va el indice</indice>
@@ -311,7 +311,7 @@
 
         </revista>
 
-        <revista id="R0003" tipo_clase="informática" paginas="33">
+        <revista id="R0003" tipo_clase="informatica" paginas="33">
             <titulo>Computer Hoy</titulo>
             <numero>25</numero>
             <indice>Aqui va el indice</indice>
@@ -358,7 +358,7 @@
             <indice>Aquí iría el índice</indice>
             <secciones_periodico>
                 
-                <seccion_periodico tipo_seccion="económica">
+                <seccion_periodico tipo_seccion="economica">
                     <articulo autor="Johnny Me Lavo">
                         <contenido enlace="aqui va el enlace"/>
                     </articulo>
@@ -370,7 +370,7 @@
                     </articulo>
                 </seccion_periodico>
             
-                <seccion_periodico tipo_seccion="opinión">
+                <seccion_periodico tipo_seccion="opinion">
                     <articulo autor="Aitor Tilla">
                         <contenido enlace="aqui va el enlace"/>
                     </articulo>
